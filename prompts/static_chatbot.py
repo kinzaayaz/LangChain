@@ -12,7 +12,7 @@ model=ChatGroq(
 )
 
 chat_history=[
-    SystemMessage(content="You are a helpgul assistant.")
+    SystemMessage(content="You are a helpful assistant.")
 ]
 while True:
     user_input = input("user: ")
