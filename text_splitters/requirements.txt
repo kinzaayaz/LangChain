@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+dotenv
+langchain-community
+langchain-experimental
+requests
+langchain-huggingface
+transformers
+sentence-transformers
