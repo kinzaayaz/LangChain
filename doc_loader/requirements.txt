@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+langchain-community
+pypdf
+beautifulsoup4
+lxml
+python-dotenv
+requests
